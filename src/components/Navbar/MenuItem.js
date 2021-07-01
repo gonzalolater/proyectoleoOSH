@@ -1,24 +1,24 @@
 export const MenuItems = [
     {
-        title: 'Home',
+        title: 'Inicio',
         url: '/',
         cName: 'nav-links'
     },
     {
-        title: 'Perfil',
-        url: '/perfil',
-        cName: 'nav-links'
-    },
-
-    {
-        title: 'Casilla de Mensajes',
-        url: '/casillademensajes',
+        title: 'Contacto',
+        url: '/contacto',
         cName: 'nav-links'
     },
     {
-        title: 'MenuDropdown', 
-        url: '#',
+        title: 'Servicios', 
+        url: '/servicios',
         cName: 'nav-links'
     
     },
+    {
+        title: 'Enviame Mensajes',
+        url: '/mensajes',
+        cName: 'nav-links'
+    }
+    
 ]

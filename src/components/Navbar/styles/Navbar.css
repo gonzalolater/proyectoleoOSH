@@ -1,5 +1,5 @@
 .NavbarItems {
-    background: linear-gradient(90deg, #542454 0%, #913660 100%);
+    background: linear-gradient(90deg, #EBD767 0%, #913660 100%);
     height: 80px;
     display: flex;
     justify-content: center;
@@ -72,7 +72,7 @@
     }
 
     .nav-menu.active {
-        background: linear-gradient(90deg,#913660,#c7595f 100%);
+        background: linear-gradient(90deg,#EBD767,#c7595f 100%);
         left: 0;
         opacity: 1;
         transition: all 0.5s ease;
