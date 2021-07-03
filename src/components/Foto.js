@@ -4,7 +4,7 @@ import './Navbar/styles/Foto.css'
 const Foto = () => {
     return (
         <main id="">
-            <h1 id="title"> Licenciado en Seguridad e Higiene</h1>
+            <h2 id="title"> Licenciado en Seguridad e Higiene</h2>
             <p> Leandro Ariel Aguilar </p>
             <div>
                 <img src="https://i.ibb.co/HPKMdf6/perfil.png" alt="perfil" border="1px solid" width="auto" height="auto"></img>
