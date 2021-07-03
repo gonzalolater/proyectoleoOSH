@@ -1,0 +1,21 @@
+h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  .thick-orange-border {
+    border-color: #913660;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+    float: right;
+  }
+  .thick-orange-border2 {
+    border-color: #EBD767;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10%;
+    float: left;
+  }
+ul {
+  text-align: left;
+}

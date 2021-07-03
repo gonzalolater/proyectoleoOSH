@@ -16,7 +16,7 @@ export const MenuItems = [
     
     },
     {
-        title: 'Enviame Mensajes',
+        title: 'Enviame un Mail',
         url: '/mensajes',
         cName: 'nav-links'
     }
