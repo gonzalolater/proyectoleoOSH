@@ -19,6 +19,7 @@ const Servicios = () => {
             <li>Iluminación uniforme</li>
             <li>Gases en el ambiente</li>
             <li>Medición de puesto de trabajo, métodos REBA y RULA.</li>
+            <li>Reglamentacion de el decreto 351/79 de la ley 19.587</li>
         </ul>
     </div>
   </div>
